@@ -49,3 +49,9 @@ h1 {
     text-shadow: 2px 2px 8px white;
 	text-align: center;
 }
+#input_btn{
+	margin: 10px 0px;
+	padding: 5px 5px;
+	border: 1px solid black;
+	border-radius: 0.25rem;
+}
